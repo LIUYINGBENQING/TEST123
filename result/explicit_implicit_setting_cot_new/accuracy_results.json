@@ -1,0 +1,15 @@
+{
+    "llama3.1-405b-instruct.json": 0.5678496868475992,
+    "qwen2-7b-instruct.json": 0.44780793319415446,
+    "gpt-4o-2024-08-06.json": 0.5438413361169102,
+    "qwen-max-2025-01-25.json": 0.5187891440501043,
+    "qwen2.5-7b-instruct.json": 0.4394572025052192,
+    "qwen2.5-72b-instruct.json": 0.47494780793319413,
+    "llama3.1-8b-instruct_2-15.json": 0.33089770354906056,
+    "accuracy_results.json": null,
+    "baichuan2-7b-chat-v1_new.json": 0.25052192066805845,
+    "llama3.1-70b-instruct.json": 0.5219206680584552,
+    "baichuan2-7b-chat-v1.json": 0.24217118997912318,
+    "llama3.1-8b-instruct.json": 0.40605427974947805,
+    "deepseek-v3.json": 0.4906054279749478
+}

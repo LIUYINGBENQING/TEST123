@@ -1,0 +1,11 @@
+{
+    "llama3.1-405b-instruct.json": 0.9321503131524008,
+    "gpt-4o-2024-08-06.json": 0.9446764091858038,
+    "qwen-max-2025-01-25.json": 0.9248434237995825,
+    "qwen2.5-7b-instruct.json": 0.8663883089770354,
+    "qwen2.5-72b-instruct.json": 0.9269311064718163,
+    "gpt-4o-mini-2024-07-18.json": 0.9144050104384134,
+    "llama3.1-8b-instruct.json": 0.81419624217119,
+    "llama3.1-70b-instruct.json": 0.918580375782881,
+    "deepseek-v3.json": 0.9279749478079332
+}

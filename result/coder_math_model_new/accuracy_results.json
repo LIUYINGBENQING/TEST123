@@ -1,0 +1,12 @@
+{
+    "qwen2-math-72b-instruct.json": 0.5313152400835073,
+    "qwen2.5-coder-32b-instruct.json": 0.5135699373695198,
+    "qwen2-math-1.5b-instruct.json": 0.2755741127348643,
+    "qwen2.5-coder-14b-instruct.json": 0.44780793319415446,
+    "qwen2.5-math-72b-instruct.json": 0.49269311064718163,
+    "qwen2.5-math-1.5b-instruct.json": 0.24008350730688935,
+    "qwen2.5-math-7b-instruct.json": 0.3298538622129436,
+    "qwen2-math-7b-instruct.json": 0.4989561586638831,
+    "qwen2.5-coder-7b-instruct.json": 0.42484342379958245,
+    "qwen2.5-coder-3b-instruct.json": 0.3663883089770355
+}
