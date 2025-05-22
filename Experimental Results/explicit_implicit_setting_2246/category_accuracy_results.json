@@ -1,0 +1,2123 @@
+{
+    "gemini-2.5-pro-preview.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 39,
+                "accuracy": 59.09
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 55,
+                "accuracy": 77.46
+            },
+            "Condition": {
+                "total": 682,
+                "correct": 464,
+                "accuracy": 68.04
+            },
+            "Character": {
+                "total": 518,
+                "correct": 362,
+                "accuracy": 69.88
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 303,
+                "accuracy": 64.88
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 33,
+                "accuracy": 61.11
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 94,
+                "accuracy": 66.67
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 129,
+                "accuracy": 73.3
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 45,
+                "accuracy": 68.18
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 399,
+                "accuracy": 68.91
+            },
+            "Character": {
+                "total": 378,
+                "correct": 262,
+                "accuracy": 69.31
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 171,
+                "accuracy": 63.57
+            },
+            "Implication": {
+                "total": 282,
+                "correct": 193,
+                "accuracy": 68.44
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 49,
+                "accuracy": 62.82
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 394,
+                "accuracy": 70.61
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 28,
+                "accuracy": 56.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 16,
+                "accuracy": 59.26
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 14,
+                "accuracy": 63.64
+            }
+        }
+    },
+    "gpt-4o-2024-08-06_2-16.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 28,
+                "accuracy": 42.42
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 49,
+                "accuracy": 69.01
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 388,
+                "accuracy": 56.81
+            },
+            "Character": {
+                "total": 518,
+                "correct": 308,
+                "accuracy": 59.46
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 272,
+                "accuracy": 58.24
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 30,
+                "accuracy": 55.56
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 74,
+                "accuracy": 52.48
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 106,
+                "accuracy": 60.23
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 46,
+                "accuracy": 69.7
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 343,
+                "accuracy": 59.24
+            },
+            "Character": {
+                "total": 378,
+                "correct": 227,
+                "accuracy": 60.05
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 148,
+                "accuracy": 55.02
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 147,
+                "accuracy": 51.94
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 43,
+                "accuracy": 55.13
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 342,
+                "accuracy": 61.29
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 27,
+                "accuracy": 54.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 12,
+                "accuracy": 44.44
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 14,
+                "accuracy": 63.64
+            }
+        }
+    },
+    "qwen-max-2025-01-25_2-16.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 30,
+                "accuracy": 45.45
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 49,
+                "accuracy": 69.01
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 382,
+                "accuracy": 55.93
+            },
+            "Character": {
+                "total": 518,
+                "correct": 299,
+                "accuracy": 57.72
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 252,
+                "accuracy": 53.96
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 29,
+                "accuracy": 53.7
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 74,
+                "accuracy": 52.48
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 108,
+                "accuracy": 61.36
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 47,
+                "accuracy": 71.21
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 336,
+                "accuracy": 58.03
+            },
+            "Character": {
+                "total": 378,
+                "correct": 214,
+                "accuracy": 56.61
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 143,
+                "accuracy": 53.16
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 150,
+                "accuracy": 53.0
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 41,
+                "accuracy": 52.56
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 333,
+                "accuracy": 59.68
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 28,
+                "accuracy": 56.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 12,
+                "accuracy": 44.44
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 14,
+                "accuracy": 63.64
+            }
+        }
+    },
+    "qwen2-7b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 29,
+                "accuracy": 43.94
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 41,
+                "accuracy": 57.75
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 308,
+                "accuracy": 45.1
+            },
+            "Character": {
+                "total": 518,
+                "correct": 266,
+                "accuracy": 51.35
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 221,
+                "accuracy": 47.32
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 35,
+                "accuracy": 64.81
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 64,
+                "accuracy": 45.39
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 102,
+                "accuracy": 57.95
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 38,
+                "accuracy": 57.58
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 291,
+                "accuracy": 50.26
+            },
+            "Character": {
+                "total": 378,
+                "correct": 186,
+                "accuracy": 49.21
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 116,
+                "accuracy": 43.12
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 138,
+                "accuracy": 48.76
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 28,
+                "accuracy": 35.9
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 297,
+                "accuracy": 53.23
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 27,
+                "accuracy": 54.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 11,
+                "accuracy": 40.74
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 12,
+                "accuracy": 54.55
+            }
+        }
+    },
+    "qwen2.5-7b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 20,
+                "accuracy": 30.3
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 34,
+                "accuracy": 47.89
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 317,
+                "accuracy": 46.41
+            },
+            "Character": {
+                "total": 518,
+                "correct": 250,
+                "accuracy": 48.26
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 204,
+                "accuracy": 43.68
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 31,
+                "accuracy": 57.41
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 63,
+                "accuracy": 44.68
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 96,
+                "accuracy": 54.55
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 32,
+                "accuracy": 48.48
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 272,
+                "accuracy": 46.98
+            },
+            "Character": {
+                "total": 378,
+                "correct": 181,
+                "accuracy": 47.88
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 112,
+                "accuracy": 41.64
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 126,
+                "accuracy": 44.52
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 33,
+                "accuracy": 42.31
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 277,
+                "accuracy": 49.64
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 26,
+                "accuracy": 52.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 10,
+                "accuracy": 37.04
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 11,
+                "accuracy": 50.0
+            }
+        }
+    },
+    "gemma-3-12b.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 28,
+                "accuracy": 42.42
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 40,
+                "accuracy": 56.34
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 322,
+                "accuracy": 47.14
+            },
+            "Character": {
+                "total": 518,
+                "correct": 248,
+                "accuracy": 47.88
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 219,
+                "accuracy": 46.9
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 28,
+                "accuracy": 51.85
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 58,
+                "accuracy": 41.13
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 101,
+                "accuracy": 57.39
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 40,
+                "accuracy": 60.61
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 271,
+                "accuracy": 46.8
+            },
+            "Character": {
+                "total": 378,
+                "correct": 187,
+                "accuracy": 49.47
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 122,
+                "accuracy": 45.35
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 137,
+                "accuracy": 48.41
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 35,
+                "accuracy": 44.87
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 289,
+                "accuracy": 51.79
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 23,
+                "accuracy": 46.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 11,
+                "accuracy": 40.74
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 10,
+                "accuracy": 45.45
+            }
+        }
+    },
+    "llama3_1-70b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 33,
+                "accuracy": 50.0
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 45,
+                "accuracy": 63.38
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 386,
+                "accuracy": 56.52
+            },
+            "Character": {
+                "total": 518,
+                "correct": 315,
+                "accuracy": 60.81
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 256,
+                "accuracy": 54.82
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 33,
+                "accuracy": 61.11
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 77,
+                "accuracy": 54.61
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 110,
+                "accuracy": 62.5
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 47,
+                "accuracy": 71.21
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 330,
+                "accuracy": 56.99
+            },
+            "Character": {
+                "total": 378,
+                "correct": 223,
+                "accuracy": 58.99
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 154,
+                "accuracy": 57.25
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 166,
+                "accuracy": 58.66
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 45,
+                "accuracy": 57.69
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 339,
+                "accuracy": 60.75
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 25,
+                "accuracy": 50.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 9,
+                "accuracy": 33.33
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 13,
+                "accuracy": 59.09
+            }
+        }
+    },
+    "deepseek-r1.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 31,
+                "accuracy": 46.97
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 51,
+                "accuracy": 71.83
+            },
+            "Condition": {
+                "total": 669,
+                "correct": 427,
+                "accuracy": 63.83
+            },
+            "Character": {
+                "total": 512,
+                "correct": 346,
+                "accuracy": 67.58
+            },
+            "Fictional": {
+                "total": 462,
+                "correct": 302,
+                "accuracy": 65.37
+            },
+            "Abstraction": {
+                "total": 53,
+                "correct": 32,
+                "accuracy": 60.38
+            },
+            "Implication": {
+                "total": 140,
+                "correct": 81,
+                "accuracy": 57.86
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 132,
+                "accuracy": 75.0
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 45,
+                "accuracy": 68.18
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 575,
+                "correct": 374,
+                "accuracy": 65.04
+            },
+            "Character": {
+                "total": 371,
+                "correct": 258,
+                "accuracy": 69.54
+            },
+            "Condition": {
+                "total": 265,
+                "correct": 163,
+                "accuracy": 61.51
+            },
+            "Implication": {
+                "total": 280,
+                "correct": 178,
+                "accuracy": 63.57
+            },
+            "Temporal": {
+                "total": 77,
+                "correct": 51,
+                "accuracy": 66.23
+            },
+            "Factoid": {
+                "total": 551,
+                "correct": 374,
+                "accuracy": 67.88
+            },
+            "Abstraction": {
+                "total": 49,
+                "correct": 25,
+                "accuracy": 51.02
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 11,
+                "accuracy": 40.74
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 16,
+                "accuracy": 72.73
+            }
+        }
+    },
+    "claude-3.7-sonnet.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 29,
+                "accuracy": 43.94
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 50,
+                "accuracy": 70.42
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 426,
+                "accuracy": 62.37
+            },
+            "Character": {
+                "total": 518,
+                "correct": 336,
+                "accuracy": 64.86
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 283,
+                "accuracy": 60.6
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 34,
+                "accuracy": 62.96
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 79,
+                "accuracy": 56.03
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 118,
+                "accuracy": 67.05
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 40,
+                "accuracy": 60.61
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 365,
+                "accuracy": 63.04
+            },
+            "Character": {
+                "total": 378,
+                "correct": 235,
+                "accuracy": 62.17
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 155,
+                "accuracy": 57.62
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 171,
+                "accuracy": 60.42
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 53,
+                "accuracy": 67.95
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 358,
+                "accuracy": 64.16
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 25,
+                "accuracy": 50.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 16,
+                "accuracy": 59.26
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 18,
+                "accuracy": 81.82
+            }
+        }
+    },
+    "llama3_1-8b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 17,
+                "accuracy": 25.76
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 37,
+                "accuracy": 52.11
+            },
+            "Condition": {
+                "total": 681,
+                "correct": 246,
+                "accuracy": 36.12
+            },
+            "Character": {
+                "total": 518,
+                "correct": 191,
+                "accuracy": 36.87
+            },
+            "Fictional": {
+                "total": 466,
+                "correct": 170,
+                "accuracy": 36.48
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 25,
+                "accuracy": 46.3
+            },
+            "Implication": {
+                "total": 140,
+                "correct": 52,
+                "accuracy": 37.14
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 89,
+                "accuracy": 50.57
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 37,
+                "accuracy": 56.06
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 225,
+                "accuracy": 38.86
+            },
+            "Character": {
+                "total": 377,
+                "correct": 159,
+                "accuracy": 42.18
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 91,
+                "accuracy": 33.83
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 104,
+                "accuracy": 36.75
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 24,
+                "accuracy": 30.77
+            },
+            "Factoid": {
+                "total": 555,
+                "correct": 233,
+                "accuracy": 41.98
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 15,
+                "accuracy": 30.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 7,
+                "accuracy": 25.93
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 6,
+                "accuracy": 27.27
+            }
+        }
+    },
+    "gemma-2-27b.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 29,
+                "accuracy": 43.94
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 47,
+                "accuracy": 66.2
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 342,
+                "accuracy": 50.07
+            },
+            "Character": {
+                "total": 518,
+                "correct": 287,
+                "accuracy": 55.41
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 226,
+                "accuracy": 48.39
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 28,
+                "accuracy": 51.85
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 65,
+                "accuracy": 46.1
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 108,
+                "accuracy": 61.36
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 40,
+                "accuracy": 60.61
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 312,
+                "accuracy": 53.89
+            },
+            "Character": {
+                "total": 378,
+                "correct": 197,
+                "accuracy": 52.12
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 134,
+                "accuracy": 49.81
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 129,
+                "accuracy": 45.58
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 43,
+                "accuracy": 55.13
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 313,
+                "accuracy": 56.09
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 24,
+                "accuracy": 48.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 10,
+                "accuracy": 37.04
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 12,
+                "accuracy": 54.55
+            }
+        }
+    },
+    "gpt-4o-mini-2024-07-18.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 20,
+                "accuracy": 30.3
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 35,
+                "accuracy": 49.3
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 304,
+                "accuracy": 44.51
+            },
+            "Character": {
+                "total": 518,
+                "correct": 224,
+                "accuracy": 43.24
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 202,
+                "accuracy": 43.25
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 24,
+                "accuracy": 44.44
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 57,
+                "accuracy": 40.43
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 87,
+                "accuracy": 49.43
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 36,
+                "accuracy": 54.55
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 273,
+                "accuracy": 47.15
+            },
+            "Character": {
+                "total": 378,
+                "correct": 163,
+                "accuracy": 43.12
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 107,
+                "accuracy": 39.78
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 118,
+                "accuracy": 41.7
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 35,
+                "accuracy": 44.87
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 258,
+                "accuracy": 46.24
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 18,
+                "accuracy": 36.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 8,
+                "accuracy": 29.63
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 10,
+                "accuracy": 45.45
+            }
+        }
+    },
+    "qwen2-72b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 30,
+                "accuracy": 45.45
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 47,
+                "accuracy": 66.2
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 342,
+                "accuracy": 50.07
+            },
+            "Character": {
+                "total": 518,
+                "correct": 291,
+                "accuracy": 56.18
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 239,
+                "accuracy": 51.18
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 28,
+                "accuracy": 51.85
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 65,
+                "accuracy": 46.1
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 99,
+                "accuracy": 56.25
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 45,
+                "accuracy": 68.18
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 303,
+                "accuracy": 52.33
+            },
+            "Character": {
+                "total": 378,
+                "correct": 208,
+                "accuracy": 55.03
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 129,
+                "accuracy": 47.96
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 138,
+                "accuracy": 48.76
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 37,
+                "accuracy": 47.44
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 321,
+                "accuracy": 57.53
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 28,
+                "accuracy": 56.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 13,
+                "accuracy": 48.15
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 10,
+                "accuracy": 45.45
+            }
+        }
+    },
+    "qwen2.5-32b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 27,
+                "accuracy": 40.91
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 47,
+                "accuracy": 66.2
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 395,
+                "accuracy": 57.83
+            },
+            "Character": {
+                "total": 518,
+                "correct": 304,
+                "accuracy": 58.69
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 271,
+                "accuracy": 58.03
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 27,
+                "accuracy": 50.0
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 72,
+                "accuracy": 51.06
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 111,
+                "accuracy": 63.07
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 46,
+                "accuracy": 69.7
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 335,
+                "accuracy": 57.86
+            },
+            "Character": {
+                "total": 378,
+                "correct": 228,
+                "accuracy": 60.32
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 145,
+                "accuracy": 53.9
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 156,
+                "accuracy": 55.12
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 41,
+                "accuracy": 52.56
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 345,
+                "accuracy": 61.83
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 28,
+                "accuracy": 56.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 14,
+                "accuracy": 51.85
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 11,
+                "accuracy": 50.0
+            }
+        }
+    },
+    "gemma-3-27b.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 25,
+                "accuracy": 37.88
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 44,
+                "accuracy": 61.97
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 366,
+                "accuracy": 53.59
+            },
+            "Character": {
+                "total": 518,
+                "correct": 273,
+                "accuracy": 52.7
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 242,
+                "accuracy": 51.82
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 24,
+                "accuracy": 44.44
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 67,
+                "accuracy": 47.52
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 103,
+                "accuracy": 58.52
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 40,
+                "accuracy": 60.61
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 315,
+                "accuracy": 54.4
+            },
+            "Character": {
+                "total": 378,
+                "correct": 199,
+                "accuracy": 52.65
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 133,
+                "accuracy": 49.44
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 142,
+                "accuracy": 50.18
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 43,
+                "accuracy": 55.13
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 307,
+                "accuracy": 55.02
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 26,
+                "accuracy": 52.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 10,
+                "accuracy": 37.04
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 10,
+                "accuracy": 45.45
+            }
+        }
+    },
+    "llama3_1-405b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 32,
+                "accuracy": 48.48
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 52,
+                "accuracy": 73.24
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 416,
+                "accuracy": 60.91
+            },
+            "Character": {
+                "total": 517,
+                "correct": 333,
+                "accuracy": 64.41
+            },
+            "Fictional": {
+                "total": 466,
+                "correct": 278,
+                "accuracy": 59.66
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 33,
+                "accuracy": 61.11
+            },
+            "Implication": {
+                "total": 140,
+                "correct": 82,
+                "accuracy": 58.57
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 126,
+                "accuracy": 71.59
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 48,
+                "accuracy": 72.73
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 363,
+                "accuracy": 62.69
+            },
+            "Character": {
+                "total": 377,
+                "correct": 243,
+                "accuracy": 64.46
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 158,
+                "accuracy": 58.74
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 164,
+                "accuracy": 57.95
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 47,
+                "accuracy": 60.26
+            },
+            "Factoid": {
+                "total": 556,
+                "correct": 372,
+                "accuracy": 66.91
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 27,
+                "accuracy": 54.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 13,
+                "accuracy": 48.15
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 14,
+                "accuracy": 63.64
+            }
+        }
+    },
+    "deepseek-chat-v3-0324.json": {
+        "question_1": {
+            "Perception": {
+                "total": 65,
+                "correct": 27,
+                "accuracy": 41.54
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 51,
+                "accuracy": 71.83
+            },
+            "Condition": {
+                "total": 677,
+                "correct": 387,
+                "accuracy": 57.16
+            },
+            "Character": {
+                "total": 511,
+                "correct": 308,
+                "accuracy": 60.27
+            },
+            "Fictional": {
+                "total": 463,
+                "correct": 270,
+                "accuracy": 58.32
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 33,
+                "accuracy": 61.11
+            },
+            "Implication": {
+                "total": 140,
+                "correct": 76,
+                "accuracy": 54.29
+            },
+            "Causality": {
+                "total": 174,
+                "correct": 119,
+                "accuracy": 68.39
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 49,
+                "accuracy": 74.24
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 575,
+                "correct": 335,
+                "accuracy": 58.26
+            },
+            "Character": {
+                "total": 375,
+                "correct": 228,
+                "accuracy": 60.8
+            },
+            "Condition": {
+                "total": 264,
+                "correct": 147,
+                "accuracy": 55.68
+            },
+            "Implication": {
+                "total": 280,
+                "correct": 155,
+                "accuracy": 55.36
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 48,
+                "accuracy": 61.54
+            },
+            "Factoid": {
+                "total": 551,
+                "correct": 351,
+                "accuracy": 63.7
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 27,
+                "accuracy": 54.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 11,
+                "accuracy": 40.74
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 18,
+                "accuracy": 81.82
+            }
+        }
+    },
+    "gemini-2.5-flash-preview.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 34,
+                "accuracy": 51.52
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 47,
+                "accuracy": 66.2
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 402,
+                "accuracy": 58.86
+            },
+            "Character": {
+                "total": 518,
+                "correct": 311,
+                "accuracy": 60.04
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 270,
+                "accuracy": 57.82
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 32,
+                "accuracy": 59.26
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 79,
+                "accuracy": 56.03
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 110,
+                "accuracy": 62.5
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 48,
+                "accuracy": 72.73
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 348,
+                "accuracy": 60.1
+            },
+            "Character": {
+                "total": 378,
+                "correct": 223,
+                "accuracy": 58.99
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 149,
+                "accuracy": 55.39
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 162,
+                "accuracy": 57.24
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 46,
+                "accuracy": 58.97
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 353,
+                "accuracy": 63.26
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 26,
+                "accuracy": 52.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 14,
+                "accuracy": 51.85
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 15,
+                "accuracy": 68.18
+            }
+        }
+    },
+    "llama3-70b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 28,
+                "accuracy": 42.42
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 46,
+                "accuracy": 64.79
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 359,
+                "accuracy": 52.56
+            },
+            "Character": {
+                "total": 518,
+                "correct": 303,
+                "accuracy": 58.49
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 257,
+                "accuracy": 55.03
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 32,
+                "accuracy": 59.26
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 71,
+                "accuracy": 50.35
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 110,
+                "accuracy": 62.5
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 42,
+                "accuracy": 63.64
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 1,
+                "accuracy": 100.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 321,
+                "accuracy": 55.44
+            },
+            "Character": {
+                "total": 378,
+                "correct": 218,
+                "accuracy": 57.67
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 138,
+                "accuracy": 51.3
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 156,
+                "accuracy": 55.12
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 47,
+                "accuracy": 60.26
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 324,
+                "accuracy": 58.06
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 26,
+                "accuracy": 52.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 7,
+                "accuracy": 25.93
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 14,
+                "accuracy": 63.64
+            }
+        }
+    },
+    "qwen2.5-72b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 29,
+                "accuracy": 43.94
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 44,
+                "accuracy": 61.97
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 341,
+                "accuracy": 49.93
+            },
+            "Character": {
+                "total": 518,
+                "correct": 266,
+                "accuracy": 51.35
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 245,
+                "accuracy": 52.46
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 23,
+                "accuracy": 42.59
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 70,
+                "accuracy": 49.65
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 102,
+                "accuracy": 57.95
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 41,
+                "accuracy": 62.12
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 305,
+                "accuracy": 52.68
+            },
+            "Character": {
+                "total": 378,
+                "correct": 198,
+                "accuracy": 52.38
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 132,
+                "accuracy": 49.07
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 140,
+                "accuracy": 49.47
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 37,
+                "accuracy": 47.44
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 311,
+                "accuracy": 55.73
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 24,
+                "accuracy": 48.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 6,
+                "accuracy": 22.22
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 9,
+                "accuracy": 40.91
+            }
+        }
+    },
+    "llama3-8b-instruct.json": {
+        "question_1": {
+            "Perception": {
+                "total": 66,
+                "correct": 16,
+                "accuracy": 24.24
+            },
+            "Temporal": {
+                "total": 71,
+                "correct": 40,
+                "accuracy": 56.34
+            },
+            "Condition": {
+                "total": 683,
+                "correct": 251,
+                "accuracy": 36.75
+            },
+            "Character": {
+                "total": 518,
+                "correct": 193,
+                "accuracy": 37.26
+            },
+            "Fictional": {
+                "total": 467,
+                "correct": 175,
+                "accuracy": 37.47
+            },
+            "Abstraction": {
+                "total": 54,
+                "correct": 28,
+                "accuracy": 51.85
+            },
+            "Implication": {
+                "total": 141,
+                "correct": 54,
+                "accuracy": 38.3
+            },
+            "Causality": {
+                "total": 176,
+                "correct": 92,
+                "accuracy": 52.27
+            },
+            "Factoid": {
+                "total": 66,
+                "correct": 30,
+                "accuracy": 45.45
+            },
+            "Conditional": {
+                "total": 1,
+                "correct": 0,
+                "accuracy": 0.0
+            }
+        },
+        "question_2": {
+            "Causality": {
+                "total": 579,
+                "correct": 232,
+                "accuracy": 40.07
+            },
+            "Character": {
+                "total": 378,
+                "correct": 155,
+                "accuracy": 41.01
+            },
+            "Condition": {
+                "total": 269,
+                "correct": 96,
+                "accuracy": 35.69
+            },
+            "Implication": {
+                "total": 283,
+                "correct": 103,
+                "accuracy": 36.4
+            },
+            "Temporal": {
+                "total": 78,
+                "correct": 22,
+                "accuracy": 28.21
+            },
+            "Factoid": {
+                "total": 558,
+                "correct": 236,
+                "accuracy": 42.29
+            },
+            "Abstraction": {
+                "total": 50,
+                "correct": 17,
+                "accuracy": 34.0
+            },
+            "Perception": {
+                "total": 27,
+                "correct": 11,
+                "accuracy": 40.74
+            },
+            "Fictional": {
+                "total": 22,
+                "correct": 8,
+                "accuracy": 36.36
+            }
+        }
+    }
+}

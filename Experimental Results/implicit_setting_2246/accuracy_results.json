@@ -1,0 +1,12 @@
+{
+    "llama-3.1-8b-instruct.json": 0.7146037399821905,
+    "llama-3.1-70b-instruct.json": 0.8517364203027604,
+    "qwen2.5-7b-instruct.json": 0.742653606411398,
+    "qwen-max-2025-01-25_2-16.json": 0.865093499554764,
+    "gpt-4o-2024-08-06_2-16.json": 0.8953695458593054,
+    "gemini-2.5-flash-preview.json": 0.8766696349065004,
+    "llama-3.1-405b-instruct.json": 0.8842386464826358,
+    "qwen2.5-72b-instruct.json": 0.8561887800534284,
+    "gpt-4o-mini-2024-07-18.json": 0.796527159394479,
+    "deepseek-chat-v3-0324.json": 0.8584149599287623
+}
